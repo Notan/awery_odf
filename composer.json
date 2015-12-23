@@ -1,5 +1,5 @@
 {
-    "name": "cybermonde/odtphp",
+    "name": "awery/odtphp",
     "description": "ODT document generator",
     "keywords": [
         "odt",
@@ -7,7 +7,7 @@
     ],
 	"license": "GPL",
     "type": "library",
-    "homepage": "https://github.com/cybermonde/odtphp",
+    "homepage": "https://github.com/Notan/awery_odf",
     "require": {
         "php": ">=5.2.4"
     },
