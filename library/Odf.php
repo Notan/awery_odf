@@ -2,8 +2,7 @@
 require 'zip/PclZipProxy.php';
 require 'zip/PhpZipProxy.php';
 require 'Segment.php';
-class OdfException extends Exception
-{}
+class OdfException extends Exception {}
 /**
  * Templating class for odt file
  * You need PHP 5.2 at least
