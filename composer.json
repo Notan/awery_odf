@@ -10,7 +10,8 @@
     "type": "library",
     "homepage": "https://github.com/Notan/awery_odf",
     "require": {
-        "php": ">=5.2.4"
+        "php": ">=5.2.4",
+        "pclzip/pclzip": "^2.8"
     },
     "autoload": {
         "classmap": ["library"]
