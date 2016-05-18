@@ -5,8 +5,7 @@
         "odt",
         "php"
     ],
-
-	"license": "GPL",
+    "license": "GPL",
     "type": "library",
     "homepage": "https://github.com/Notan/awery_odf",
     "require": {
